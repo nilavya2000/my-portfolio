@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.618fce17.css",
-    "main.js": "/my-portfolio/static/js/main.9b59c003.js",
+    "main.js": "/my-portfolio/static/js/main.99fbb111.js",
     "static/css/64.529770c4.chunk.css": "/my-portfolio/static/css/64.529770c4.chunk.css",
-    "static/js/64.56dc6704.chunk.js": "/my-portfolio/static/js/64.56dc6704.chunk.js",
+    "static/js/64.13daa004.chunk.js": "/my-portfolio/static/js/64.13daa004.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/my-portfolio/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.bda0d7b7.chunk.js": "/my-portfolio/static/js/769.bda0d7b7.chunk.js",
+    "static/js/769.96a55f8e.chunk.js": "/my-portfolio/static/js/769.96a55f8e.chunk.js",
     "static/media/flightPrice.jpeg": "/my-portfolio/static/media/flightPrice.a6d1b60190a8ae98b9aa.jpeg",
     "static/media/stanfordLogo.png": "/my-portfolio/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
     "static/media/Netflix.jpeg": "/my-portfolio/static/media/Netflix.e2a2fcf84d885f003232.jpeg",
@@ -24,14 +24,14 @@
     "index.html": "/my-portfolio/index.html",
     "static/media/talksCardBack.svg": "/my-portfolio/static/media/talksCardBack.0e940ef6a8ebb5f805e4.svg",
     "main.618fce17.css.map": "/my-portfolio/static/css/main.618fce17.css.map",
-    "main.9b59c003.js.map": "/my-portfolio/static/js/main.9b59c003.js.map",
+    "main.99fbb111.js.map": "/my-portfolio/static/js/main.99fbb111.js.map",
     "64.529770c4.chunk.css.map": "/my-portfolio/static/css/64.529770c4.chunk.css.map",
-    "64.56dc6704.chunk.js.map": "/my-portfolio/static/js/64.56dc6704.chunk.js.map",
+    "64.13daa004.chunk.js.map": "/my-portfolio/static/js/64.13daa004.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/my-portfolio/static/css/769.b3cbb36b.chunk.css.map",
-    "769.bda0d7b7.chunk.js.map": "/my-portfolio/static/js/769.bda0d7b7.chunk.js.map"
+    "769.96a55f8e.chunk.js.map": "/my-portfolio/static/js/769.96a55f8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.618fce17.css",
-    "static/js/main.9b59c003.js"
+    "static/js/main.99fbb111.js"
   ]
 }
