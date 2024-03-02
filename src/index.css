@@ -12,6 +12,18 @@
     url("./assets/fonts/Montserrat-Regular.ttf") format("woff");
   font-display: swap;
 }
+@font-face {
+  font-family: "MadimiOne";
+  src: local("MadimiOne"),
+    url("./assets/fonts/MadimiOne-Regular.ttf") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Quicksand-VariableFont_wght";
+  src: local("Quicksand-VariableFont_wght"),
+    url("./assets/fonts/Quicksand-VariableFont_wght.ttf") format("woff");
+  font-display: swap;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
@@ -22,7 +34,8 @@ body {
 }
 body {
   margin: 0;
-  font: 19px / 23px Montserrat, "Montserrat", sans-serif;
+  font: 19px / 23px "Quicksand-VariableFont_wght", Montserrat, sans-serif;
+  font-family: "Quicksand-VariableFont_wght";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

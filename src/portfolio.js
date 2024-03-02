@@ -20,7 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Nilavya Das",
+  username: "Nilavya",
+  logo:"nilavya",
   title: "Hi all, I'm Nilavya",
   subTitle: emoji(
     "I'm a data enthusiast with a knack for turning numbers into insights. From wrangling messy datasets to crafting predictive models, I've got you covered. Let's chat over coffee about how we can turn your data into gold!"
@@ -50,7 +51,7 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
+  title: "What I do 👀",
   subTitle:
     "As a data analyst, I transform raw data into captivating insights that drive decisive action and illuminate pathways to success.",
   skills: [
@@ -289,7 +290,7 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: "Blogs",
+  title: "Blogs 📚",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
