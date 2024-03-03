@@ -264,7 +264,7 @@ const achievementSection = {
       imageAlt: "HackClub",
       footerLink: [
         {
-          name: "HacktoberFest",
+          name: "HackClub",
           url: "https://hacktoberfest.com/"
         }
       ]
