@@ -34,16 +34,17 @@
 .button-greeting-div {
   display: flex;
   margin-top: 20px;
+  gap: 20px;
 }
 
 .greeting-text {
-  font-size: 70px;
+  font-size: 60px;
   line-height: 1.1;
   color: $textColor !important;
 }
 
 .greeting-text-p {
-  font-size: 30px;
+  font-size: 24px;
   line-height: 40px;
 }
 
@@ -57,6 +58,7 @@
   animation-iteration-count: infinite;
   animation-name: wave;
   display: inline-block;
+  margin-left: 5px;
   transform-origin: 70% 70%;
 }
 
