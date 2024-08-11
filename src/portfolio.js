@@ -24,7 +24,7 @@ const greeting = {
 	logo: 'nilavya',
 	title: "Hi all, I'm Nilavya",
 	subTitle: emoji(
-		"I'm a data enthusiast with a knack for turning numbers into insights. From wrangling messy datasets to crafting predictive models, I've got you covered. Let's chat over coffee about how we can turn your data into gold!",
+		"I’m Nilavya Das, a 24-year-old Data Analyst with a knack for turning raw data into powerful insights. With over 2 years of experience, I currently lead data analytics at CashPe Agri Retail Pvt Ltd, where I specialize in Python-driven analytics, machine learning, and data visualization. I’m deeply passionate about mentoring and actively contribute to the tech community, having co-led HackClub SIT and co-trained the Bengali language model sahajBERT. Constantly pushing the boundaries of what data can achieve, I’m always learning—currently diving into RAG and AI agents. Let’s connect and explore how data can drive your next big success.",
 	),
 	resumeLink:
 		'https://drive.google.com/file/d/1ikwvmS2eUfaZ-Wdcal0gYQFdC9NUR1H4/view?usp=sharing', // Set to empty to hide the button
@@ -53,12 +53,12 @@ const socialMediaLinks = {
 const skillsSection = {
 	title: 'What I do 👀',
 	subTitle:
-		'As a data analyst, I transform raw data into captivating insights that drive decisive action and illuminate pathways to success.',
+		'Nilavya Das, a skilled data analyst, transforms raw data into captivating insights that drive decisive action and illuminate pathways to success.',
 	skills: [
-		emoji('⚡ Decode complex datasets, revealing strategic insights.'),
-		emoji('⚡ Create compelling data visualizations that drive action.'),
+		emoji('⚡ Decoding complex datasets to reveal strategic insights that drive business growth.'),
+		emoji('⚡ Creating compelling data visualizations that prompt decisive action.'),
 		emoji(
-			'⚡ Translate technical findings into impactful insights for all stakeholders.',
+			'⚡ Translating technical findings into impactful insights, making them accessible to all stakeholders.',
 		),
 	],
 
@@ -165,28 +165,29 @@ const techStack = {
 const workExperiences = {
 	display: true, //Set it to true to show workExperiences Section
 	experience: [
-		{
-			role: 'Banking Analytics Consultant',
-			company: 'CSB Bank Limited',
-			companylogo: require('./assets/images/CSB_Bank.jpg'),
-			date: 'Feb 2024 – Present',
-			desc: 'I have done freelance as Banking Data Analyst specializing in Python-driven analytics. I simplify banking operations by uncovering insights from data, helping institutions make informed decisions and drive growth.',
-			descBullets: [],
-		},
+		
 		{
 			role: 'Lead Data Analyst',
 			company: 'CashPe Agri Retail Pvt Ltd',
 			companylogo: require('./assets/images/Farmguru.jpg'),
-			date: 'May 2023 – Feb 2024',
-			desc: 'Mentored 5 interns on market research, leading to 4 initiatives boosting customer satisfaction by 12%; utilized NLP to identify 30% negative sentiment for product X in 10k calls, reversed 15% in 3 months; automated reporting with Python/Pandas, saving 20 hours/month for deeper analysis.',
+			date: 'May 2023 – present',
+			desc: 'I mentored 5 interns in market research, leading to 4 strategic initiatives that boosted customer satisfaction by 12%. Utilizing Natural Language Processing (NLP), I analyzed 10,000 customer calls, identifying 30% negative sentiment for Product X and successfully reversing 15% of it within 3 months. Additionally, I automated reporting processes using Python and Pandas, saving 20 hours per month and allowing for deeper, more insightful analysis.',
 		},
 		{
 			role: 'Data Analyst',
 			company: 'CashPe Agri Retail Pvt Ltd',
 			companylogo: require('./assets/images/Farmguru.jpg'),
 			date: 'Aug 2022 – May 2023',
-			desc: 'Implemented data-driven sales analysis strategies, achieving a 20% Q4 profit increase, surpassing annual targets by 15%; constructed a Flask-based Address Verification Tool for 98% accuracy, cutting returns by 15%; devised an automated lead assignment system, slashing response time by 2 hours and enhancing sales advisor efficiency by 15%.',
+			desc: 'I implemented data-driven sales analysis strategies that resulted in a 20% profit increase in Q4, surpassing annual targets by 15%. Additionally, I developed a Flask-based Address Verification Tool with 98% accuracy, reducing product returns by 15%. I also created an automated lead assignment system, cutting response time by 2 hours and improving sales advisor efficiency by 15%.',
 		},
+		{
+			role: 'Banking Analytics Consultant',
+			company: 'CSB Bank Limited',
+			companylogo: require('./assets/images/CSB_Bank.jpg'),
+			date: 'Feb 2024 – Jul 2024',
+			desc: 'As a Freelance Banking Data Analyst specializing in Python-driven analytics, I streamline banking operations by transforming complex data into actionable insights. My expertise in data analysis helps financial institutions make informed decisions, optimize processes, and drive growth. By leveraging Python, I uncover hidden patterns in financial data, enabling banks to enhance their strategies and achieve sustainable success.',
+			descBullets: [],
+		}
 	],
 }
 
