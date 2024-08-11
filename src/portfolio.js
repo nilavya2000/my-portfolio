@@ -24,7 +24,7 @@ const greeting = {
 	logo: 'nilavya',
 	title: "Hi all, I'm Nilavya",
 	subTitle: emoji(
-		"I’m Nilavya Das, a 24-year-old Data Analyst with a knack for turning raw data into powerful insights. With over 2 years of experience, I currently lead data analytics at CashPe Agri Retail Pvt Ltd, where I specialize in Python-driven analytics, machine learning, and data visualization. I’m deeply passionate about mentoring and actively contribute to the tech community, having co-led HackClub SIT and co-trained the Bengali language model sahajBERT. Constantly pushing the boundaries of what data can achieve, I’m always learning—currently diving into RAG and AI agents. Let’s connect and explore how data can drive your next big success.",
+		"I’m Nilavya Das, a 24-year-old Data Analyst with 2+ years of experience, leading data analytics at CashPe Agri Retail Pvt Ltd. I specialize in Python-driven analytics, machine learning, and data visualization. Passionate about mentoring and tech community engagement, I've co-led HackClub SIT and co-trained the sahajBERT language model. Currently, I’m exploring RAG and AI agents. Let’s connect to see how data can drive your next success.",
 	),
 	resumeLink:
 		'https://drive.google.com/file/d/1ikwvmS2eUfaZ-Wdcal0gYQFdC9NUR1H4/view?usp=sharing', // Set to empty to hide the button
